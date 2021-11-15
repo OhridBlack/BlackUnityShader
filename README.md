@@ -11,7 +11,7 @@
 
 **草的Shader：**
 
-![avatar]()
+![avatar](https://github.com/OhridBlack/BlackUnityShader/blob/main/READMEPic/grass.jpg)
 
 [草2333 github](https://github.com/IronWarrior/UnityGrassGeometryShader)
 
@@ -19,13 +19,17 @@
 
 **ppt切换动画Shader**
 
-![avatar]()
-
 [知乎链接](https://zhuanlan.zhihu.com/p/378967288)
 
 
 
 **水面Shader：**
 
-![avatar]()
+![avatar](https://github.com/OhridBlack/BlackUnityShader/blob/main/READMEPic/water.jpg)
+
+
+
+**其他Shader：**
+
+![avatar](https://github.com/OhridBlack/BlackUnityShader/blob/main/READMEPic/example.jpg)
 
