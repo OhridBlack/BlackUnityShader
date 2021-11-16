@@ -17,7 +17,7 @@
 
 基于草的思路修改的geometry shader，达成了bunny furry的效果
 
-![avatar]()
+![avatar](https://github.com/OhridBlack/BlackUnityShader/blob/main/READMEPic/bunny.jpg)
 
 
 
