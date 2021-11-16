@@ -13,6 +13,8 @@
 
 ![avatar](https://github.com/OhridBlack/BlackUnityShader/blob/main/READMEPic/grass.jpg)
 
+![avatar](https://github.com/OhridBlack/BlackUnityShader/blob/main/READMEPic/grassAnimation.gif)
+
 [草2333 github](https://github.com/IronWarrior/UnityGrassGeometryShader)
 
 基于草的思路修改的geometry shader，达成了bunny furry的效果
