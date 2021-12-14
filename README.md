@@ -35,6 +35,24 @@
 
 
 
+**修改MeshFilter.mesh**
+
+**perlin噪声修改平面vertices位置形成地形**
+
+![avatar](https://github.com/OhridBlack/BlackUnityShader/blob/main/READMEPic/Terrian.png)
+
+**利用网格相邻顶点高度传递修改平面vertices的水波动画**
+
+![avatar](https://github.com/OhridBlack/BlackUnityShader/blob/main/READMEPic/wave.gif)
+
+
+
+**MarchingCubes算法在三维volume中构建等值面**
+
+![avatar](https://github.com/OhridBlack/BlackUnityShader/blob/main/READMEPic/marchingCubes.png)
+
+
+
 **其他Shader：**
 
 ![avatar](https://github.com/OhridBlack/BlackUnityShader/blob/main/READMEPic/example.jpg)
